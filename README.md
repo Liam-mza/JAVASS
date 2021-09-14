@@ -24,6 +24,8 @@ In any case to play with a remote player do as follow:
 # AI Player
 To be able to have some simulated players to play against you, we use the Monte Carlo Tree Search algorithm in order to find the best play possible for the ai-player.
 Since the algorithm works with iterations, it becomes better as the number of iterations increases but also slower. By default it does 10 000 iterations.  
-
-
+  
+    
+      
+Done for the "Practice of object-oriented programming" course of Schinz Michel.
 **ENJOY THE GAME!**
