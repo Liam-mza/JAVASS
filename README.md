@@ -27,5 +27,5 @@ Since the algorithm works with iterations, it becomes better as the number of it
   
     
       
-Done for the "Practice of object-oriented programming" course of Schinz Michel.
+Done for the "Practice of object-oriented programming" course of Schinz Michel.  
 **ENJOY THE GAME!**
