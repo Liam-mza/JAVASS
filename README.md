@@ -3,6 +3,7 @@ A Java playable version of the swiss card game called Jass with the possibility 
 
 # How to play
 Launch the src/ch/epfl/javass/launcher.java file.  
+**Must be played with Java 1.8!**   
 There you will have to select the different types of players:  
 * Human: the person that is playing on this computer, you can choose the name and if you want the game to give you some hint or not.  
 * Remote: A player playing on an other computer (or on the same for local multiplayer), check the multiplayer section below.  
